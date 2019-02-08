@@ -20,3 +20,12 @@ Computer graphics is another area where linear algebra plays a huge role. Consid
 
 Credits: https://mathoverflow.net/questions/322691/applications-of-basic-linear-algebra-concepts-to-computer-science
 
+- Google Page-Ranking Algo:
+
+   - https://math.boisestate.edu/~wright/courses/m297/google_talk.pdf
+   - http://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/Lecture3/lecture3.html
+   
+
+## Matrix in Computer Science:
+
+- http://cs.brown.edu/courses/cs053/current/index.htm
